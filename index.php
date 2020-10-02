@@ -1,5 +1,5 @@
 <?php
-
+// 	Home
 	require_once 'dbconfig.php';
 	
 	if(isset($_GET['delete_id']))
